@@ -5,71 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6da7c2ad-1251-400e-8e76-f4d8e3f618be" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaBasic/Chapter6/Secton2/Pairs.scala" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/Chapter1/ChapterOnePractice/ChangeTest$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/Chapter1/ChapterOnePractice/ChangeTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/Chapter1/ChapterOnePractice/Exercise1$$anonfun$printPascal$1$$anonfun$apply$mcVI$sp$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/Chapter1/ChapterOnePractice/Exercise1$$anonfun$printPascal$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/Chapter1/ChapterOnePractice/Exercise1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/Chapter1/ChapterOnePractice/Exercise2$$anonfun$balance$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/Chapter1/ChapterOnePractice/Exercise2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/Chapter1/ChapterOnePractice/Exercise3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/Chapter1/ChapterOnePractice/Parentheses$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/Chapter1/ChapterOnePractice/Parentheses.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/Chapter1/ChapterOnePractice/PascalTest$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/Chapter1/ChapterOnePractice/PascalTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/Chapter1/ChapterOneSectionFive/FindSqrtRoot.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/Chapter1/ChapterOneSectionFive/TestSqrt$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/Chapter1/ChapterOneSectionFive/TestSqrt.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/Chapter1/ChapterOneSectionSeven/Factorial.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/Chapter1/ChapterOneSectionSeven/TestFactorial$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/Chapter1/ChapterOneSectionSeven/TestFactorial.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/Chapter2/ChapterTwoPractice/FunSets$$anonfun$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/Chapter2/ChapterTwoPractice/FunSets$$anonfun$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/Chapter2/ChapterTwoPractice/FunSets$$anonfun$diff$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/Chapter2/ChapterTwoPractice/FunSets$$anonfun$filter$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/Chapter2/ChapterTwoPractice/FunSets$$anonfun$intersect$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/Chapter2/ChapterTwoPractice/FunSets$$anonfun$map$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/Chapter2/ChapterTwoPractice/FunSets$$anonfun$singletonSet$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/Chapter2/ChapterTwoPractice/FunSets$$anonfun$union$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/Chapter2/ChapterTwoPractice/FunSets$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/Chapter2/ChapterTwoPractice/FunSets.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/Chapter2/ChapterTwoPractice/Main$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/Chapter2/ChapterTwoPractice/Main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/Chapter2/ChapterTwoSectionOne/SumBetweenInt.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/Chapter2/ChapterTwoSectionTwo/ProductFactorial.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/Chapter2/ChapterTwoSectionTwo/ProductTest$$anonfun$main$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/Chapter2/ChapterTwoSectionTwo/ProductTest$$anonfun$main$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/Chapter2/ChapterTwoSectionTwo/ProductTest$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/Chapter2/ChapterTwoSectionTwo/ProductTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/Chapter3/Cons.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/Chapter3/List.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/Chapter3/Nil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/Chapter3/Practice/common/package$$anonfun$subFile$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/Chapter3/Practice/common/package$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/Chapter3/Practice/common/package.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/Chapter3/TestTrait.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/Chapter5/Section1/RemoveNthList$$anonfun$isPrime$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/Chapter5/Section1/RemoveNthList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/Chapter5/Section1/RemoveNthListTest$$anonfun$main$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/Chapter5/Section1/RemoveNthListTest$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/Chapter5/Section1/RemoveNthListTest.class" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/org/Hongyao/Coursera/Chapter1/ChapterOnePractice/Exercise1.scala" afterPath="$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaBasic/Chapter1/ChapterOnePractice/Exercise1.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/org/Hongyao/Coursera/Chapter1/ChapterOnePractice/Exercise2.scala" afterPath="$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaBasic/Chapter1/ChapterOnePractice/Exercise2.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/org/Hongyao/Coursera/Chapter1/ChapterOnePractice/Exercise3.scala" afterPath="$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaBasic/Chapter1/ChapterOnePractice/Exercise3.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/org/Hongyao/Coursera/Chapter1/ChapterOneSectionFive/FindSqrtRoot.scala" afterPath="$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaBasic/Chapter1/ChapterOneSectionFive/FindSqrtRoot.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/org/Hongyao/Coursera/Chapter1/ChapterOneSectionSeven/Factorial.scala" afterPath="$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaBasic/Chapter1/ChapterOneSectionSeven/Factorial.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/org/Hongyao/Coursera/Chapter2/ChapterTwoPractice/Excercise1.scala" afterPath="$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaBasic/Chapter2/ChapterTwoPractice/Excercise1.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/org/Hongyao/Coursera/Chapter2/ChapterTwoPractice/Main.scala" afterPath="$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaBasic/Chapter2/ChapterTwoPractice/Main.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/org/Hongyao/Coursera/Chapter2/ChapterTwoPractice/package.scala" afterPath="$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaBasic/Chapter2/ChapterTwoPractice/package.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/org/Hongyao/Coursera/Chapter2/ChapterTwoSectionOne/SumBetweenInt.scala" afterPath="$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaBasic/Chapter2/ChapterTwoSectionOne/SumBetweenInt.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/org/Hongyao/Coursera/Chapter2/ChapterTwoSectionTwo/ProductFactorial.scala" afterPath="$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaBasic/Chapter2/ChapterTwoSectionTwo/ProductFactorial.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/org/Hongyao/Coursera/Chapter3/List.scala" afterPath="$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaBasic/Chapter3/List.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/org/Hongyao/Coursera/Chapter3/Practice/common/package.scala" afterPath="$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaBasic/Chapter3/Practice/common/package.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/org/Hongyao/Coursera/Chapter4/Practice/src/Huffman.scala" afterPath="$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaBasic/src/Huffman.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/org/Hongyao/Coursera/Chapter5/Section1/RemoveNthList.scala" afterPath="$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaBasic/Section1/RemoveNthList.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/org/Hongyao/Coursera/Chapter6/Section6/Polynomials.scala" afterPath="$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaBasic/Chapter6/Section6/Polynomials.scala" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaReactive/Week1/Chapter4/RandomGenerator.scala" afterPath="$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaReactive/Week1/Chapter4/RandomGenerator.scala" />
     </list>
     <ignored path="ScalaTutorial.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -94,8 +31,8 @@
       <file leaf-file-name="RandomGenerator.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaReactive/Week1/Chapter4/RandomGenerator.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.35814607">
-              <caret line="45" column="10" selection-start-line="45" selection-start-column="10" selection-end-line="45" selection-end-column="10" />
+            <state vertical-scroll-proportion="0.4536517">
+              <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -1210,8 +1147,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaReactive/Week1/Chapter4/RandomGenerator.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35814607">
-          <caret line="45" column="10" selection-start-line="45" selection-start-column="10" selection-end-line="45" selection-end-column="10" />
+        <state vertical-scroll-proportion="0.4536517">
+          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
           <folding />
         </state>
       </provider>
