@@ -5,6 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6da7c2ad-1251-400e-8e76-f4d8e3f618be" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/ScalaReactive/Week1/Chapter4/Inner$.class" afterPath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/ScalaReactive/Week1/Chapter4/Inner$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/ScalaReactive/Week1/Chapter4/Inner.class" afterPath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/ScalaReactive/Week1/Chapter4/Inner.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/ScalaReactive/Week1/Chapter4/Leaf$.class" afterPath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/ScalaReactive/Week1/Chapter4/Leaf$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/ScalaReactive/Week1/Chapter4/Leaf.class" afterPath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/ScalaReactive/Week1/Chapter4/Leaf.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/ScalaReactive/Week1/Chapter4/TreesGenerator$$anonfun$inners$1$$anonfun$apply$1.class" afterPath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/ScalaReactive/Week1/Chapter4/TreesGenerator$$anonfun$inners$1$$anonfun$apply$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/ScalaReactive/Week1/Chapter4/TreesGenerator$$anonfun$inners$1.class" afterPath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/ScalaReactive/Week1/Chapter4/TreesGenerator$$anonfun$inners$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/ScalaReactive/Week1/Chapter4/TreesGenerator$$anonfun$leafs$1.class" afterPath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/ScalaReactive/Week1/Chapter4/TreesGenerator$$anonfun$leafs$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/ScalaReactive/Week1/Chapter4/TreesGenerator$$anonfun$trees$1$$anonfun$apply$2.class" afterPath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/ScalaReactive/Week1/Chapter4/TreesGenerator$$anonfun$trees$1$$anonfun$apply$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/ScalaReactive/Week1/Chapter4/TreesGenerator$$anonfun$trees$1.class" afterPath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/ScalaReactive/Week1/Chapter4/TreesGenerator$$anonfun$trees$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/ScalaReactive/Week1/Chapter4/TreesGenerator$.class" afterPath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/ScalaReactive/Week1/Chapter4/TreesGenerator$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/ScalaReactive/Week1/Chapter4/testcase$.class" afterPath="$PROJECT_DIR$/out/production/ScalaTutorial/org/Hongyao/Coursera/ScalaReactive/Week1/Chapter4/testcase$.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaReactive/Week1/Chapter4/RandomGenerator.scala" afterPath="$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaReactive/Week1/Chapter4/RandomGenerator.scala" />
     </list>
@@ -28,11 +39,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RandomGenerator.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaReactive/Week1/Chapter4/RandomGenerator.scala">
+      <file leaf-file-name="BankAccount.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaReactive/Week2/SignalReactiveFRP/BankAccount.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4536517">
-              <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Signal.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaReactive/Week2/SignalReactiveFRP/Signal.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="1.4957699">
+              <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Accounts.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaReactive/Week2/SignalReactiveFRP/Accounts.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -58,24 +89,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/org/Hongyao/ScalaTutorial/CircuitSimulation/BasicCircuitSimulation.scala" />
-        <option value="$PROJECT_DIR$/src/org/Hongyao/ScalaTutorial/CircuitSimulation/Wire.scala" />
-        <option value="$PROJECT_DIR$/src/org/Hongyao/ScalaTutorial/CircuitSimulation/CircuitSimulation.scala" />
-        <option value="$PROJECT_DIR$/src/org/Hongyao/ScalaTutorial/CircuitSimulation/MySImulation.scala" />
-        <option value="$PROJECT_DIR$/src/org/Hongyao/ScalaTutorial/Currency/Converter.scala" />
-        <option value="$PROJECT_DIR$/src/org/Hongyao/ScalaTutorial/QueueSample/Queue.scala" />
-        <option value="$PROJECT_DIR$/src/org/Hongyao/ScalaTutorial/QueueSample/StrangeIntQueue.scala" />
-        <option value="$PROJECT_DIR$/src/org/Hongyao/ScalaTutorial/Currency/Currency.scala" />
-        <option value="$PROJECT_DIR$/src/org/Hongyao/ScalaTutorial/EightQueens/MyMethod/EightQueens.scala" />
-        <option value="$PROJECT_DIR$/src/org/Hongyao/ScalaTutorial/NewCollection/Base.scala" />
-        <option value="$PROJECT_DIR$/src/org/Hongyao/ScalaTutorial/NewCollection/RNA1.scala" />
-        <option value="$PROJECT_DIR$/src/org/Hongyao/ScalaTutorial/ModuleTutorial/Food.scala" />
-        <option value="$PROJECT_DIR$/src/org/Hongyao/ScalaTutorial/ModuleTutorial/Recipe.scala" />
-        <option value="$PROJECT_DIR$/src/org/Hongyao/ScalaTutorial/ModuleTutorial/FruitSalad.scala" />
-        <option value="$PROJECT_DIR$/src/org/Hongyao/ScalaTutorial/ModuleTutorial/Browser.scala" />
-        <option value="$PROJECT_DIR$/src/org/Hongyao/ScalaTutorial/ModuleTutorial/StudentDatabase.scala" />
-        <option value="$PROJECT_DIR$/src/org/Hongyao/ScalaTutorial/ModuleTutorial/FoodCategories.scala" />
-        <option value="$PROJECT_DIR$/src/org/Hongyao/ScalaTutorial/ModuleTutorial/Database.scala" />
         <option value="$PROJECT_DIR$/src/org/Hongyao/ScalaTutorial/ModuleTutorial/SimpleFoods.scala" />
         <option value="$PROJECT_DIR$/src/org/Hongyao/ScalaTutorial/ModuleTutorial/SimpleDatabase.scala" />
         <option value="$PROJECT_DIR$/src/org/Hongyao/ScalaTutorial/ModuleTutorial/SimpleRecipes.scala" />
@@ -109,6 +122,24 @@
         <option value="$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaReactive/Week1/Chapter2/PartialFunction.scala" />
         <option value="$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaReactive/Week1/Chapter3/MapImplementation.scala" />
         <option value="$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaReactive/Week1/Chapter4/RandomGenerator.scala" />
+        <option value="$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaReactive/Week2/Chapter1/BackAccount.scala" />
+        <option value="$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaReactive/Week2/Chapter1/Account.scala" />
+        <option value="$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaReactive/Week2/DiscreteEventSimulator/Action.scala" />
+        <option value="$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaReactive/Week2/DiscreteEventSimulator/Wire.scala" />
+        <option value="$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaReactive/Week2/DiscreteEventSimulator/Parameters.scala" />
+        <option value="$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaReactive/Week2/DiscreteEventSimulator/Simulation.scala" />
+        <option value="$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaReactive/Week2/DiscreteEventSimulator/Circuits.scala" />
+        <option value="$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaReactive/Week2/DiscreteEventSimulator/Gates.scala" />
+        <option value="$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaReactive/Week2/DiscreteEventSimulator/SimulatorParts.scala" />
+        <option value="$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaReactive/Week2/ObserverPattern/Publisher.scala" />
+        <option value="$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaReactive/Week2/ObserverPattern/Subscriber.scala" />
+        <option value="$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaReactive/Week2/ObserverPattern/BankAccount.scala" />
+        <option value="$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaReactive/Week2/ObserverPattern/Consolidator.scala" />
+        <option value="$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaReactive/Week2/ObserverPattern/Observers.scala" />
+        <option value="$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaReactive/Week2/SignalReactive/BankAccount.scala" />
+        <option value="$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaReactive/Week2/SignalReactiveFRP/Accounts.scala" />
+        <option value="$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaReactive/Week2/SignalReactiveFRP/Signal.scala" />
+        <option value="$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaReactive/Week2/SignalReactiveFRP/BankAccount.scala" />
       </list>
     </option>
   </component>
@@ -162,9 +193,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -227,11 +257,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Week1" />
+              <option name="myItemId" value="ScalaReactive" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter4" />
+              <option name="myItemId" value="Week2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -257,7 +287,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Week1" />
+              <option name="myItemId" value="ScalaReactive" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -285,6 +315,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -296,73 +327,17 @@
     <property name="last_opened_file_path" value="C:/Program Files (x86)/scala/lib/akka-actor_2.11-2.3.10.jar!/" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.Hongyao.Coursera.ScalaReactive.Week2.SignalReactive" />
+      <recent name="org.Hongyao.Coursera.ScalaReactive.Week2.ObserverPattern" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\hone\IdeaProjects\ScalaTutorial\src\org\Hongyao\Coursera\Chapter6\Practice\Dictionary" />
       <recent name="C:\Users\hone\IdeaProjects\ScalaTutorial\src\org\Hongyao\Coursera\Chapter4\Practice\src" />
       <recent name="C:\Users\hone\IdeaProjects\ScalaTutorial\src\org\Hongyao\Coursera\Chapter4\Practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.testcase">
-    <configuration default="false" name="test" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="org.Hongyao.Coursera.ScalaBasic.Chapter6.Practice.SourceCode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="org.Hongyao.Coursera.ScalaBasic.Chapter6.Practice.SourceCode.test" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ScalaTutorial" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Section2Test" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="org.Hongyao.Coursera.ScalaBasic.Chapter6.Secton2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="org.Hongyao.Coursera.ScalaBasic.Chapter6.Secton2.Section2Test" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ScalaTutorial" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="MoreActors" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="org.Hongyao.ScalaTutorial.Actors.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="org.Hongyao.ScalaTutorial.Actors.MoreActors" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ScalaTutorial" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.Observers">
     <configuration default="false" name="TestJson" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -391,6 +366,66 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="org.Hongyao.Coursera.ScalaReactive.Week1.Chapter4.testcase" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ScalaTutorial" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Account" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.Hongyao.Coursera.ScalaReactive.Week2.Chapter1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="org.Hongyao.Coursera.ScalaReactive.Week2.Chapter1.Account" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ScalaTutorial" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.Hongyao.Coursera.ScalaReactive.Week2.DiscreteEventSimulator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="org.Hongyao.Coursera.ScalaReactive.Week2.DiscreteEventSimulator.test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ScalaTutorial" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Observers" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.Hongyao.Coursera.ScalaReactive.Week2.ObserverPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="org.Hongyao.Coursera.ScalaReactive.Week2.ObserverPattern.Observers" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -700,19 +735,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.test" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Section2Test" />
-      <item index="2" class="java.lang.String" itemvalue="Application.MoreActors" />
-      <item index="3" class="java.lang.String" itemvalue="Application.TestJson" />
-      <item index="4" class="java.lang.String" itemvalue="Application.testcase" />
+      <item index="0" class="java.lang.String" itemvalue="Application.TestJson" />
+      <item index="1" class="java.lang.String" itemvalue="Application.testcase" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Account" />
+      <item index="3" class="java.lang.String" itemvalue="Application.test" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Observers" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.testcase" />
-        <item index="1" class="java.lang.String" itemvalue="Application.TestJson" />
-        <item index="2" class="java.lang.String" itemvalue="Application.MoreActors" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Section2Test" />
-        <item index="4" class="java.lang.String" itemvalue="Application.test" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Observers" />
+        <item index="1" class="java.lang.String" itemvalue="Application.test" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Account" />
+        <item index="3" class="java.lang.String" itemvalue="Application.testcase" />
+        <item index="4" class="java.lang.String" itemvalue="Application.TestJson" />
       </list>
     </recent_temporary>
   </component>
@@ -735,8 +770,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="960" y="0" width="960" height="1040" extended-state="1" />
-    <editor active="true" />
+    <frame x="960" y="0" width="960" height="1040" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -745,22 +780,46 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30441642" sideWeight="0.50292826" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20430107" sideWeight="0.49707174" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3344086" sideWeight="0.49707174" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29131356" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23728813" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39905363" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39217758" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31935483" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30441642" sideWeight="0.50292826" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3344086" sideWeight="0.49707174" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3230932" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39217758" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -775,7 +834,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <option name="time" value="9" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -784,118 +843,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/org/Hongyao/ScalaTutorial/CircuitSimulation/Simulation.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="57" selection-start-line="19" selection-start-column="57" selection-end-line="19" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/Hongyao/ScalaTutorial/CircuitSimulation/BasicCircuitSimulation.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44444445">
-          <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/Hongyao/ScalaTutorial/CircuitSimulation/CircuitSimulation.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7037037">
-          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/Hongyao/ScalaTutorial/CircuitSimulation/MySImulation.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14814815">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/Hongyao/ScalaTutorial/QueueSample/StrangeIntQueue.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25692695">
-          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/Hongyao/ScalaTutorial/QueueSample/Queue.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47103274">
-          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/Hongyao/ScalaTutorial/Currency/Converter.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/Hongyao/ScalaTutorial/Currency/Currency.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5555556">
-          <caret line="15" column="12" selection-start-line="0" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/Hongyao/ScalaTutorial/EightQueens/MyMethod/EightQueens.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/Hongyao/ScalaTutorial/NewCollection/Base.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="47" selection-start-line="0" selection-start-column="47" selection-end-line="0" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/Hongyao/ScalaTutorial/NewCollection/RNA1.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.041062802">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/Hongyao/ScalaTutorial/ModuleTutorial/Food.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/Hongyao/ScalaTutorial/ModuleTutorial/Recipe.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/Hongyao/ScalaTutorial/ModuleTutorial/FruitSalad.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/Hongyao/ScalaTutorial/ModuleTutorial/SimpleDatabase.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/Hongyao/ScalaTutorial/ModuleTutorial/GotApples.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/org/Hongyao/ScalaTutorial/EightQueens/BookMethod/EightQueens.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.17288135">
@@ -1083,7 +1030,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.29528537">
           <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1091,7 +1037,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.6451613">
           <caret line="60" column="5" selection-start-line="58" selection-start-column="4" selection-end-line="60" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1099,7 +1044,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5465632">
           <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1107,7 +1051,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="16" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1115,9 +1058,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.80087847">
           <caret line="55" column="7" selection-start-line="55" selection-start-column="7" selection-end-line="55" selection-end-column="7" />
-          <folding>
-            <element signature="e#34#65#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1125,7 +1065,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.54634833">
           <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1133,7 +1072,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.26264045">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1141,14 +1079,140 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.119382024">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="2" selection-end-line="14" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaReactive/Week1/Chapter4/RandomGenerator.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4536517">
-          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.45454547">
+          <caret line="49" column="15" selection-start-line="49" selection-start-column="15" selection-end-line="49" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaReactive/Week2/Chapter1/Account.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28651685">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaReactive/Week2/Chapter1/BackAccount.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38202247">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaReactive/Week2/DiscreteEventSimulator/Circuits.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="58" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaReactive/Week2/DiscreteEventSimulator/Gates.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="39" column="33" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaReactive/Week2/DiscreteEventSimulator/SimulatorParts.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaReactive/Week2/DiscreteEventSimulator/Wire.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaReactive/Week2/DiscreteEventSimulator/Parameters.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaReactive/Week2/DiscreteEventSimulator/Simulation.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8095238">
+          <caret line="44" column="5" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaReactive/Week2/ObserverPattern/Publisher.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaReactive/Week2/ObserverPattern/Subscriber.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17258883">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaReactive/Week2/ObserverPattern/BankAccount.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23011844">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaReactive/Week2/ObserverPattern/Consolidator.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37394246">
+          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaReactive/Week2/ObserverPattern/Observers.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5465313">
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaReactive/Week2/SignalReactiveFRP/Accounts.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaReactive/Week2/SignalReactiveFRP/BankAccount.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/Hongyao/Coursera/ScalaReactive/Week2/SignalReactiveFRP/Signal.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.4957699">
+          <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
           <folding />
         </state>
       </provider>
